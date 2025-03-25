@@ -1,1 +1,1 @@
-# Mi-primer-diario-repositorio-
+# Mi primer diario (repositorio)
